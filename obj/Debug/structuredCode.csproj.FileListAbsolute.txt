@@ -1,0 +1,32 @@
+c:\users\tchauke\documents\visual studio 2015\Projects\structuredCode\structuredCode\bin\Debug\structuredCode.exe.config
+c:\users\tchauke\documents\visual studio 2015\Projects\structuredCode\structuredCode\bin\Debug\structuredCode.exe
+c:\users\tchauke\documents\visual studio 2015\Projects\structuredCode\structuredCode\bin\Debug\structuredCode.pdb
+c:\users\tchauke\documents\visual studio 2015\Projects\structuredCode\structuredCode\obj\Debug\structuredCode.exe
+c:\users\tchauke\documents\visual studio 2015\Projects\structuredCode\structuredCode\obj\Debug\structuredCode.pdb
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\bin\Debug\structuredCode.exe.config
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\obj\Debug\structuredCode.exe
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\obj\Debug\structuredCode.pdb
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\bin\Debug\structuredCode.exe
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\bin\Debug\structuredCode.pdb
+C:\Users\kmokgethi\Documents\GitHub\console-phone-codecrackers\structuredCode\structuredCode\obj\Debug\structuredCode.csprojResolveAssemblyReference.cache
+C:\Users\SNKUTHA\Desktop\Console\structuredCode\structuredCode\bin\Debug\structuredCode.exe.config
+C:\Users\SNKUTHA\Desktop\Console\structuredCode\structuredCode\obj\Debug\structuredCode.exe
+C:\Users\SNKUTHA\Desktop\Console\structuredCode\structuredCode\obj\Debug\structuredCode.pdb
+<<<<<<< HEAD
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\bin\Debug\structuredCode.exe.config
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\obj\Debug\structuredCode.exe
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\obj\Debug\structuredCode.pdb
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\obj\Debug\structuredCode.csprojResolveAssemblyReference.cache
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\bin\Debug\structuredCode.exe
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\bin\Debug\structuredCode.pdb
+=======
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\structuredCode\bin\Debug\structuredCode.exe.config
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\structuredCode\obj\Debug\structuredCode.exe
+C:\Users\tchauke\Desktop\ConsoleProject\structuredCode\structuredCode\structuredCode\obj\Debug\structuredCode.pdb
+>>>>>>> 96c54e4feca17434b1a8df66d05e7e14998e7283
+C:\Users\tchauke\Desktop\PhoneDialler\bin\Debug\structuredCode.exe.config
+C:\Users\tchauke\Desktop\PhoneDialler\obj\Debug\structuredCode.exe
+C:\Users\tchauke\Desktop\PhoneDialler\obj\Debug\structuredCode.pdb
+C:\Users\tchauke\Desktop\PhoneDialler\obj\Debug\structuredCode.csprojResolveAssemblyReference.cache
+C:\Users\tchauke\Desktop\PhoneDialler\bin\Debug\structuredCode.exe
+C:\Users\tchauke\Desktop\PhoneDialler\bin\Debug\structuredCode.pdb
